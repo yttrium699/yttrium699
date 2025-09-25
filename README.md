@@ -35,7 +35,7 @@
   </a>
   
   <a href="mailto:vmolozeva@mail.ru" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/mail/default.svg" width="52" height="40" alt="mail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="mail logo" />
   </a>
   
   <a href="https://t.me/yttrium69" target="_blank">
