@@ -56,7 +56,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yttrium699.yttrium699&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yttrium699.yttrium699"  />
 </div>
+
+![](https://komarev.com/ghpvc/?username=yttrium699)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=If%20you%20like%20it,%20do%20fork%20🍴%20and%20star%20⭐&section=footer&fontSize=38&fontAlign=50&fontAlignY=62)
