@@ -30,15 +30,15 @@
 ###
 
 <div align="center">
-  <a href="https://instagram.com/dwellius" target="_blank">
+  <a href="https://instagram.com/yttrium69" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
   
-  <a href="https://linkedin.com/in/dwellius" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  <a href="mailto:vmolozeva@mail.ru" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/mail/default.svg" width="52" height="40" alt="mail logo" />
   </a>
   
-  <a href="https://t.me/dwellius" target="_blank">
+  <a href="https://t.me/yttrium69" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
 </div>
