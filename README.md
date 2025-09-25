@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70CD2&width=435&lines=Hello+I+am+Victoria+Molozeva+!)](https://git.io/typing-svg)
 
-[<img align="center" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/NikitaHake/NikitaHake/blob/main/metrics.svg">](https://github.com/NikitaHake/NikitaHake)
+[<img align="center" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/yttrium699/yttrium699/blob/main/metrics.svg">](https://github.com/yttrium699/yttrium699)
 
 <hr>
 <h3 align="center">Tech stack<img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="33"></h3>
@@ -48,15 +48,15 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikitaHake/NikitaHake/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikitaHake/NikitaHake/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NikitaHake/NikitaHake/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yttrium699/yttrium699/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yttrium699/yttrium699/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yttrium699/yttrium699/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NikitaHake.NikitaHake&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yttrium699.yttrium699&"  />
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=If%20you%20like%20it,%20do%20fork%20🍴%20and%20star%20⭐&section=footer&fontSize=38&fontAlign=50&fontAlignY=62)
