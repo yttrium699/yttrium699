@@ -56,7 +56,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yttrium699.yttrium699"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yttrium699.yttrium699&"  />
 </div>
 
 ![](https://komarev.com/ghpvc/?username=yttrium699)
