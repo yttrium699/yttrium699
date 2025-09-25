@@ -23,11 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
-
 <h3 align="center">Reach me out on<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="33"></h3>
-
-###
 
 <div align="center">
   <a href="https://instagram.com/yttrium69" target="_blank">
@@ -43,7 +39,6 @@
   </a>
 </div>
 
-
 <h3 align="center">My Contribution Graph  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRkcnNvbmdsbTdxaXhjc3ZtMG4xN2k1c2poZm5sMzB1ZWV4cmpoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NTSEyjm687Ne0oowpY/giphy.gif" width="33"></h3>
 <br clear="both">
 
@@ -52,12 +47,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yttrium699/yttrium699/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yttrium699/yttrium699/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yttrium699.yttrium699&"  />
-</div>
 
 ![](https://komarev.com/ghpvc/?username=yttrium699)
 
